@@ -8,7 +8,7 @@
 
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Hasil dan Evaluasi](#results)
+- [Results](#results)
 - [Kredit](#kredit)
 
 ---
